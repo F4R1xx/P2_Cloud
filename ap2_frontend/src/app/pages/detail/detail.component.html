@@ -1,0 +1,12 @@
+<div class="body_compositores" style="background-color: #303030; min-height: 91.3vh; min-width: 100vw;">
+    <div class="container_card card">
+        <div class="nome_compositor">
+            <p>{{compositor.nome}}</p>
+        </div>
+        <div class="nome_musica">
+            <div  *ngFor="let musica of compositor.musicas">
+                <p>{{musica.nome}}</p>
+            </div>
+        </div>
+    </div>
+</div>

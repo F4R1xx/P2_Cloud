@@ -1,0 +1,54 @@
+.body_compositores {
+    display: grid;
+    grid-template-columns: auto 40vw auto;
+    grid-template-areas: "blank1 content blank2";
+
+    color: white;
+}
+
+.container_card {
+    grid-area: content;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-flow: column;
+}
+
+.card {
+    display: grid;
+    grid-template-columns: 20vw 20vw;
+    grid-template-areas: "compositor musica";
+
+    color: white;
+    font-size: 20px;
+}
+
+.nome_compositor {
+    grid-area: compositor;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    padding: 0;
+    margin: 0;
+
+    border: 2px solid white;
+    border-radius: 15px 0 0 15px;
+}
+
+.nome_musica {
+    grid-area: musica;
+
+    margin: 0;
+
+    border: 2px solid white;
+    border-radius: 0 15px 15px 0;
+}
+
+p {
+    display: flex;
+    justify-content: center;
+
+    padding: 0;
+    margin: 6px;
+}

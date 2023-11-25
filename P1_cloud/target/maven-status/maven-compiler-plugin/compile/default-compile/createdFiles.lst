@@ -1,0 +1,17 @@
+br\edu\ibmec\album\errorHandler\ValidationErrorResponse.class
+br\edu\ibmec\album\model\Compositor.class
+br\edu\ibmec\album\service\MusicaService.class
+br\edu\ibmec\album\exception\MusicaException.class
+br\edu\ibmec\album\ApiDocumentationConfiguration.class
+br\edu\ibmec\album\controller\MusicaController.class
+br\edu\ibmec\album\model\Musica.class
+br\edu\ibmec\album\repository\MusicaRepository.class
+br\edu\ibmec\album\errorHandler\BusinessError.class
+br\edu\ibmec\album\repository\CompositorRepository.class
+br\edu\ibmec\album\AlbumApplication.class
+br\edu\ibmec\album\exception\CompositorException.class
+br\edu\ibmec\album\controller\CompositorController.class
+br\edu\ibmec\album\service\CompositorService.class
+br\edu\ibmec\album\exception\BusinessException.class
+br\edu\ibmec\album\errorHandler\ErrorHandlerController.class
+br\edu\ibmec\album\errorHandler\Validation.class

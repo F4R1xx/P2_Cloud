@@ -1,0 +1,17 @@
+C:\Users\Victor\Documents\Ibmec\projeto cloud\trabalho william\P1_cloud\src\main\java\br\edu\ibmec\album\ApiDocumentationConfiguration.java
+C:\Users\Victor\Documents\Ibmec\projeto cloud\trabalho william\P1_cloud\src\main\java\br\edu\ibmec\album\exception\MusicaException.java
+C:\Users\Victor\Documents\Ibmec\projeto cloud\trabalho william\P1_cloud\src\main\java\br\edu\ibmec\album\exception\CompositorException.java
+C:\Users\Victor\Documents\Ibmec\projeto cloud\trabalho william\P1_cloud\src\main\java\br\edu\ibmec\album\model\Compositor.java
+C:\Users\Victor\Documents\Ibmec\projeto cloud\trabalho william\P1_cloud\src\main\java\br\edu\ibmec\album\errorHandler\Validation.java
+C:\Users\Victor\Documents\Ibmec\projeto cloud\trabalho william\P1_cloud\src\main\java\br\edu\ibmec\album\errorHandler\BusinessError.java
+C:\Users\Victor\Documents\Ibmec\projeto cloud\trabalho william\P1_cloud\src\main\java\br\edu\ibmec\album\model\Musica.java
+C:\Users\Victor\Documents\Ibmec\projeto cloud\trabalho william\P1_cloud\src\main\java\br\edu\ibmec\album\controller\MusicaController.java
+C:\Users\Victor\Documents\Ibmec\projeto cloud\trabalho william\P1_cloud\src\main\java\br\edu\ibmec\album\controller\CompositorController.java
+C:\Users\Victor\Documents\Ibmec\projeto cloud\trabalho william\P1_cloud\src\main\java\br\edu\ibmec\album\repository\CompositorRepository.java
+C:\Users\Victor\Documents\Ibmec\projeto cloud\trabalho william\P1_cloud\src\main\java\br\edu\ibmec\album\service\MusicaService.java
+C:\Users\Victor\Documents\Ibmec\projeto cloud\trabalho william\P1_cloud\src\main\java\br\edu\ibmec\album\AlbumApplication.java
+C:\Users\Victor\Documents\Ibmec\projeto cloud\trabalho william\P1_cloud\src\main\java\br\edu\ibmec\album\errorHandler\ErrorHandlerController.java
+C:\Users\Victor\Documents\Ibmec\projeto cloud\trabalho william\P1_cloud\src\main\java\br\edu\ibmec\album\service\CompositorService.java
+C:\Users\Victor\Documents\Ibmec\projeto cloud\trabalho william\P1_cloud\src\main\java\br\edu\ibmec\album\exception\BusinessException.java
+C:\Users\Victor\Documents\Ibmec\projeto cloud\trabalho william\P1_cloud\src\main\java\br\edu\ibmec\album\errorHandler\ValidationErrorResponse.java
+C:\Users\Victor\Documents\Ibmec\projeto cloud\trabalho william\P1_cloud\src\main\java\br\edu\ibmec\album\repository\MusicaRepository.java
